@@ -128,7 +128,7 @@ ENV/
 .flowers
 env.bak/
 venv.bak/
-**/venv/
+**/flowers/
 
 
 # Spyder project settings
